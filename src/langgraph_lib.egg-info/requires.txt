@@ -1,0 +1,7 @@
+fastapi>=0.95.2
+uvicorn[standard]>=0.22.0
+httpx>=0.24.1
+pydantic>=1.10.7
+langchain_core>=0.0.5
+langgraph>=0.1.0
+langsmith>=0.0.4

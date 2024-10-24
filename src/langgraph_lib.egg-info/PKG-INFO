@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: langgraph_lib
+Version: 0.1.0
+Summary: A toolkit to serve LangGraph agents using FastAPI.
+Home-page: https://github.com/aiwithvd/langgraph_lib
+Author: Vishvdeep Dasadiya
+Author-email: vishvdeep.dasadiya.vd@gmail.com
+License: MIT
+Project-URL: Bug Reports, https://github.com/aiwithvd/langgraph_lib/issues
+Project-URL: Source, https://github.com/aiwithvd/langgraph_lib
+Keywords: langgraph fastapi agent toolkit ai
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: fastapi>=0.95.2
+Requires-Dist: uvicorn[standard]>=0.22.0
+Requires-Dist: httpx>=0.24.1
+Requires-Dist: pydantic>=1.10.7
+Requires-Dist: langchain_core>=0.0.5
+Requires-Dist: langgraph>=0.1.0
+Requires-Dist: langsmith>=0.0.4
+
+# LangGraph FastAPI Toolkit
+
+A Python toolkit providing tools and infrastructure to serve LangGraph agents using FastAPI.
+
+## Features
+
+- **Easy Integration:** Quickly create FastAPI apps to serve your LangGraph agents.
+- **Client Library:** Interact with the agent service using a provided client.
+- **Data Models:** Utilize predefined schemas for messages, inputs, and feedback.
+- **Asynchronous Support:** Supports both synchronous and asynchronous operations.
+
+## Installation
+
+```bash
+pip install langgraph_lib
