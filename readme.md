@@ -1,6 +1,6 @@
 # LangGraph FastAPI Toolkit
 
-A Python toolkit providing tools and infrastructure to serve LangGraph agents using FastAPI.
+A Python toolkit providing tools to serve LangGraph agents using FastAPI.
 
 ## Features
 
