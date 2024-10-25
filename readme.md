@@ -1,15 +1,17 @@
 # LangGraph FastAPI Toolkit
 
-A Python toolkit providing tools to serve LangGraph agents using FastAPI.
-
-## Features
+Introducing **langgraph-lib**, an open-source Python toolkit that bridges LangGraph agents with FastAPI. Langgraph-lib offers a suite of features designed to enhance the development and deployment of language-driven applications:
 
 - **Easy Integration:** Quickly create FastAPI apps to serve your LangGraph agents.
-- **Client Library:** Interact with the agent service using a provided client.
-- **Data Models:** Utilize predefined schemas for messages, inputs, and feedback.
-- **Asynchronous Support:** Supports both synchronous and asynchronous operations.
-- **Extensibility:** Customize and extend the library to fit your specific needs.
+- **Client Library:** Interact seamlessly with agent services through a dedicated client library.
+- **Data Models:** Utilize predefined schemas for messages, inputs, and feedback to streamline data handling.
+- **Asynchronous Support:** Supports both synchronous and asynchronous operations, ensuring flexibility and high performance.
 
+- **Features:**
+  - Seamless integration with LangGraph agents and FastAPI
+  - Optimized performance for handling large volumes of requests
+  - Comprehensive documentation and examples to get started quickly
+  - Active community support and continuous updates
 
 ## License
 
