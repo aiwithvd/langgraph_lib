@@ -12,6 +12,13 @@ Introducing **langgraph-lib**, an open-source Python toolkit that bridges LangGr
   - Optimized performance for handling large volumes of requests
   - Comprehensive documentation and examples to get started quickly
   - Active community support and continuous updates
+ 
+## **Technologies Used:**
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
+  ![LangGraph](https://img.shields.io/badge/LangGraph-FF5722?style=flat-square&logo=graphql&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/LangChain-4CAF50?style=flat-square&logo=react&logoColor=white)
+  ![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=flat-square&logo=python&logoColor=white)
 
 ## License
 
